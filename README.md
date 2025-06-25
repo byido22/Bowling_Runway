@@ -10,7 +10,7 @@
 
 ## 🖥️ Technologies
 - C# with Windows Forms (.NET)
-- OpenGL (via OpenTK or similar library – if used)
+- OpenGL 
 - Resource loading via file paths
 
 ## 📁 Project Structure
@@ -43,9 +43,6 @@ Bowling_Runway/
 3. Build the project in **Debug** mode.
 
 4. Run the application – textures and sound should load automatically from `bin/Debug/pic`.
-
-## 📸 Screenshots (optional)
-_Add screenshots of the app here if you want_
 
 ## 📜 License
 This project is for educational or personal portfolio use. No license applied.
